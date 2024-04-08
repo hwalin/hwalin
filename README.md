@@ -1,4 +1,5 @@
-<main>
+<div class="application-main " data-commit-hovercards-enabled="" data-discussion-hovercards-enabled="" data-issue-and-pr-hovercards-enabled="">
+      <main>
         
 
 
@@ -482,3 +483,4 @@
 </div>
 
       </main>
+  </div>
